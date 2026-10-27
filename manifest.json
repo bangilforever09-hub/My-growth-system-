@@ -1,0 +1,10 @@
+{
+  "name": "My Growth System",
+  "short_name": "Growth System",
+  "description": "Sistem pribadi untuk belajar, bertumbuh, dan mengevaluasi progres.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#111111",
+  "orientation": "portrait"
+}
